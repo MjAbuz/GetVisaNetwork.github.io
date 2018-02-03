@@ -1,12 +1,3 @@
-## Deprecation warning ⚠️
-
-The Timber theme is no longer being maintained by Shopify.  Developers are encouraged to check out [Slate](https://github.com/Shopify/slate) -
-a theme scaffolding and command line tool built for developing Shopify themes.
-
-You can continue to use Timber; however, this repo will not be kept up-to-date with changes in Shopify theme development.
-
----
-
 Shopify Timber
 =====================
 
